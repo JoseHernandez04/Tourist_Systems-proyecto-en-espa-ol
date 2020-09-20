@@ -3,9 +3,9 @@
     padding: 0;
     box-sizing: border-box;
   }
-  body{
-    background: #c3edea;
-  }
+body {
+    background: #c9d1d3;
+}
   header{
     width: 100%;
     height: 50px;
@@ -177,6 +177,15 @@ footer .conte{
 .button2:hover{
   background: blue;
   color: aliceblue;
+}
+.buton3{
+  background: blue;
+  color:aliceblue;
+  padding: 10px;
+}
+.buton3:hover{
+  background: #01d8ff;
+  color: black;
 }
 .n1{
   justify-content: flex-end;

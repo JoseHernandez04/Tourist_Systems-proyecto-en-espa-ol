@@ -4,9 +4,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-  body{
-    background: #c3edea;
-  }
+body {
+    background: #c9d1d3;
+    font-family: 'Roboto', sans-serif;
+}
   /*-----footer---------*/
   h1, h2, h3, h4, h5, h6{
     margin: 0;
@@ -136,7 +137,6 @@ footer .conte{
     right: 5px;
 }
 .main-footer .column__title{
-    font-family: 'Squada One', cursive;
 }
 img{
     display: block;
@@ -393,7 +393,6 @@ figure .capa p{
     font-size: 1.5em;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-family: 'Galada', cursive;
 }
 .group__title{
     text-align: center;
@@ -416,7 +415,6 @@ figure .capa p{
 /*---------------CIERRE---------------------*/
 /*----------Galeria----------*/
 .galeria{
-    font-family: 'open sans';
 }
 
 

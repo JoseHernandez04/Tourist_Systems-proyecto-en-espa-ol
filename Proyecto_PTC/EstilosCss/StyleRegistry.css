@@ -1,11 +1,12 @@
 ﻿body {
-    background: #c3edea;
+    background: white;
 }
 
 .container {
     width: 500px;
-    height: 470px;
+    height: 570px;
     text-align: center;
+    background-color: gray;
     border-radius: 4px;
     margin: 0 auto;
     margin-top: 150px;
@@ -19,6 +20,7 @@
 }
 .h1 {
     text-align: center;
+    color: white;
 }
 
 .h2 {

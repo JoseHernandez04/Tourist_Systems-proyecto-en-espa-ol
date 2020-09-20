@@ -1,9 +1,9 @@
 *{
     box-sizing: border-box;
 }
-body{
-    font-family: 'Oswald', sans-serif;
+body {
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 img{
     display: block;
@@ -72,7 +72,6 @@ h1, h2, h3, h4, h5, h6{
 }
 #valoracion{
     color: goldenrod;
-    font-family: 'Bangers', cursive;
     font-size: 23px;
     text-align: center;
     text-decoration: none;
@@ -83,7 +82,6 @@ h1, h2, h3, h4, h5, h6{
     font-weight: bold;
 }
 .price{
-    font-family: 'Pacifico', cursive;
     font-size: 25px;
     color: red;
 }
@@ -93,7 +91,6 @@ h1, h2, h3, h4, h5, h6{
 #des{
     background: none;
     color: black;
-    font-family: 'Fjalla One', sans-serif;
     font-weight: bold;
 }
 .buscar{
@@ -133,11 +130,9 @@ h1, h2, h3, h4, h5, h6{
     line-height: 60px;
     transition: .3s;
     width: 0;
-    font-family: 'Pacifico', cursive;
 }
 .b2> ::placeholder{
     color: black;
-    font-family: 'Pacifico', cursive;
 }
 .bo2{
     width: 40px;
@@ -173,21 +168,17 @@ h1, h2, h3, h4, h5, h6{
     padding: 10px;
     text-align: center;
     font-size: 1.0em;
-    font-family: 'Squada One', cursive;
 
 }
 .main__title{
     margin: 15px 0;
     font-size: 1.5em;
-    font-family: 'Pacifico', cursive;
     font-weight: 100; 
 }
 .column__title{
     font-size: 1.3em;
-    font-family: 'Pacifico', cursive;
 }
 .column__txt{
-    font-family: 'Squada One', cursive;
 }
 .main__about__descrition .column:nth-child(2){
     padding: 10px;
@@ -219,17 +210,13 @@ h1, h2, h3, h4, h5, h6{
     font-size: 1.5em;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-family: 'Galada', cursive;
 }
 .today-special__price{
     font-size: 1.0em;
     color: #DE423A;
     font-weight: bold;
-    font-family: 'Anton', sans-serif;
-
 }
 .group__title{
-    font-family: 'Pacifico', cursive;
     text-align: center;
     font-weight: 100;
     font-size: 1.8em;
@@ -264,7 +251,6 @@ h4{
     right: 5px;
 }
 .main-footer .column__title{
-    font-family: 'Squada One', cursive;
 }
 @media screen and (min-width:480px){
     .buscar:hover> .buscar_texto{

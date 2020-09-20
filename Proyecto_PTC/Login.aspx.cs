@@ -34,7 +34,7 @@ namespace Proyecto_PTC
                 if (retorno != 0)
                 {
                     Session["username"] = txtUser; //Craamos una sesion
-                    Response.Redirect("Inicio.html"); // Nos redirecciona a nuetro formulario
+                    Response.Redirect("Inicio.asp"); // Nos redirecciona a nuetro formulario
                 }
                 else
                 {
@@ -81,7 +81,7 @@ namespace Proyecto_PTC
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Response.Redirect("Olvido.html");
+            Response.Redirect("Olvido.asp");
         }
     }
 }

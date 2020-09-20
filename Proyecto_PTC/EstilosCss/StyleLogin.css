@@ -1,12 +1,13 @@
 ﻿body {
-    background: #c3edea;
+    background: white;
 }
 
-.container{
+.container {
     width: 500px;
     height: 470px;
     text-align: center;
-    border-radius: 4px; 
+    background-color: gray;
+    border-radius: 4px;
     margin: 0 auto;
     margin-top: 150px;
 }
