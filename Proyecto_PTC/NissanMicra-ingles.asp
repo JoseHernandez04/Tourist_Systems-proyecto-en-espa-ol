@@ -39,7 +39,7 @@
         <label class="icon-menu" for="menu-bar"></label>
         <nav class="menu">
             <a class="n2" href="Rentcar.asp">Home</a>
-            <a class="n2" href="pago.asp">BOOK HERE</a>
+            <a class="n2" href="selecciondepagoingles.aspx">BOOK HERE</a>
             <a class="n2" href="Help.asp">Help</a>
             <div class="social-icon">
                 <a href="NissanMicra.asp" class="social-icon__link"><span class="icon-language"></span></a>
@@ -110,7 +110,7 @@
             <p> Extra-urban consumption (l / 100 km): 3.8 </p>
             <p> Average consumption (l / 100 km): 4.6 </p>
             <p> CO2 emissions (gr / km): 103 </p>
-            <a class="btn" href="pago.asp">! Book Here </a>
+            <a class="btn" href="selecciondepagoingles.aspx">! Book Here </a>
         </article>
 
         <div class="container-aside">
@@ -118,7 +118,7 @@
             <aside>
                 <img src="carros/1.jpg" alt="">
                 <h2>Nissan Micra 2019</h2>
-                <a href="pago.asp"><button>Book !Here</button></a>
+                <a href="selecciondepagoingles.aspx"><button>Book !Here</button></a>
             </aside>
 
             <aside>

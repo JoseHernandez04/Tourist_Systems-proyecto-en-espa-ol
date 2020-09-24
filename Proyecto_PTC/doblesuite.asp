@@ -22,7 +22,7 @@
         <label class="icon-menu" for="menu-bar"></label>
         <nav class="menu">
             <a class="n2" href="RocaSunzal.asp">Inicio</a>
-            <a href="pago.asp" class="n2">Reservar Habitación</a>
+            <a href="selecciondepago.aspx" class="n2">Reservar Habitación</a>
             <a class="n2" href="https://www.sunzal.com/accommodation/hotel-roca/">Pagina oficial Sunzal</a>
             <a class="n2" href="Ayuda.asp">Ayuda</a>
             <div class="social-icon">
@@ -56,7 +56,7 @@
                          frente a la piscina y el desayuno está incluido para cada invitado. El precio
                           es aplicable para 2 adultos y hasta 2 niños.
             </p>
-            <a href="pago.asp" class="btn">Reservar Habitación</a>
+            <a href="selecciondepago.aspx" class="btn">Reservar Habitación</a>
         </div>
     </section>
     <div class="group__title">Detalles de la Habitación Doble Plus</div>
@@ -106,7 +106,7 @@
             </div>
             <div class="column column--50">
                 <h3 class="column__title">Encuentranos en la Playa El Tunco el mejor lugar para surfear.</h3>
-                  <a href="pago.asp" class="btn btn--contact">!Reservar Aqui¡</a>
+                  <a href="selecciondepago.aspx" class="btn btn--contact">!Reservar Aqui¡</a>
             </div>
         </div>
     </section>

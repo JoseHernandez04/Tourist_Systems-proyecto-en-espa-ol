@@ -32,6 +32,7 @@
             <nav class="navbar navbar-expand-sm fixed-top">
         <a class="navbar-brand" href="index.aspx">Inicio</a>
         <a class="navbar-brand" href="Olvido.aspx">Ayuda</a>
+        <a class="navbar-brand" href="loginadmin.aspx">Administrador</a>
         <asp:Button ID="btnLogin" class="btn btn-outline-success my-2 my-sm-0" type="submit" runat="server" Text="Login" OnClick="btnLogin_Click1" />
                  <div class="Collapse navbar-collapse">
                  <ul class="navbar-nav mr-auto">

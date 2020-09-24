@@ -54,7 +54,7 @@
               <a href="https://www.facebook.com/Tourist-Systems-107305934378956" class="social-icon__link"><span class="icon-facebook"></span></a>
               <a href="https://www.instagram.com/tourist_systems/" class="social-icon__link"><span class="icon-instagram"></span></a>
               <a href="https://twitter.com/SystemsTourist" class="social-icon__link"><span class="icon-twitter"></span></a>
-              <a href="" class="social-icon__link"><span class="icon-gmail"></span></a>
+              <a href="#" class="social-icon__link"><span class="icon-gmail"></span></a>
           </div>
       </div>
   </nav>

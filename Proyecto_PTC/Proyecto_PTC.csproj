@@ -116,6 +116,8 @@
     <Content Include="carros\7.jpg" />
     <Content Include="carros\8.jpg" />
     <Content Include="carros\9.jpg" />
+    <Content Include="contactform\contactform.js" />
+    <Content Include="contactform\Readme.txt" />
     <Content Include="css\app.css" />
     <Content Include="css\articulos.css" />
     <Content Include="css\Ayuda.css" />
@@ -141,6 +143,7 @@
     <Content Include="css\Login.css" />
     <Content Include="css\principal.css" />
     <Content Include="css\Rentacar.css" />
+    <Content Include="css\style.css" />
     <Content Include="css\StyleSheet1.css" />
     <Content Include="delxs.asp" />
     <Content Include="delxsingles.asp" />
@@ -160,7 +163,9 @@
     <Content Include="fonts\flexslider-icon.svg" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="font\fontello.svg" />
+    <Content Include="Formulariopago.aspx" />
     <Content Include="Help.asp" />
+    <Content Include="hot6.jpg" />
     <Content Include="Hotel.asp" />
     <Content Include="hotelescss\rocasunza.css" />
     <Content Include="hotelescss\Rocasunzal.css" />
@@ -532,45 +537,10 @@
     <Content Include="imagenes\X81C_URVAN-W_02n01-2014.jpg..jpg.ximg.l_12_m.smart.jpg" />
     <Content Include="imagenes\yaris.jpg" />
     <Content Include="imagenes\yaris1.jpg" />
-    <Content Include="Img\2x1.jpg" />
-    <Content Include="Img\balerinas.jpg" />
-    <Content Include="Img\BaZhaHei.jpg" />
-    <Content Include="Img\botas.jpg" />
-    <Content Include="Img\BrogueColornegro.jpg" />
-    <Content Include="Img\caballero.png" />
-    <Content Include="Img\D1.jpg" />
-    <Content Include="Img\D2.jpg" />
-    <Content Include="Img\D3.jpg" />
-    <Content Include="Img\D4.jpg" />
-    <Content Include="Img\D5.jpg" />
-    <Content Include="Img\D6.jpg" />
-    <Content Include="Img\escolar_boy.jpg" />
-    <Content Include="Img\escolar_girl.jpg" />
-    <Content Include="Img\Favicon.gif" />
-    <Content Include="Img\Flexi.jpg" />
-    <Content Include="Img\fondo.jpg" />
-    <Content Include="Img\Fondo12.jpg" />
-    <Content Include="Img\Francesita.jpg" />
-    <Content Include="Img\FSchool.jpg" />
-    <Content Include="Img\Fsport.jpg" />
-    <Content Include="Img\GeuxU.jpg" />
-    <Content Include="Img\hombre.jpg" />
+    <Content Include="Img\hero-bg.jpg" />
     <Content Include="Img\icono.jpg" />
-    <Content Include="Img\Jordan.jpg" />
-    <Content Include="Img\k1.jpg" />
-    <Content Include="Img\k2.jpg" />
-    <Content Include="Img\k3.jpg" />
-    <Content Include="Img\k4.jpg" />
-    <Content Include="Img\k5.jpg" />
-    <Content Include="Img\k6.jpg" />
-    <Content Include="Img\loafers.jpg" />
-    <Content Include="Img\MELVIN-HAMILTON.jpg" />
-    <Content Include="Img\mujer.jpg" />
-    <Content Include="Img\Pierrecardin.jpg" />
-    <Content Include="Img\Pierrecardincasual.jpg" />
-    <Content Include="Img\Slippers.jpg" />
-    <Content Include="Img\user.jpg" />
-    <Content Include="Img\Zapatilla-Charol.png" />
+    <Content Include="Img\letra T.png" />
+    <Content Include="Img\Logo3.PNG" />
     <Content Include="indexingles.aspx" />
     <Content Include="index.aspx" />
     <Content Include="indoexec.asp" />
@@ -591,10 +561,31 @@
     <Content Include="js\main4.js" />
     <Content Include="js\main5.js" />
     <Content Include="js\main6.js" />
+    <Content Include="js\mainpago.js" />
     <Content Include="js\pago.js" />
     <Content Include="js\Rocasunzal.js" />
     <Content Include="KIA_Stinger-ingles.asp" />
     <Content Include="KIA_Stinger.asp" />
+    <Content Include="lib\animate\animate.css" />
+    <Content Include="lib\animate\animate.min.css" />
+    <Content Include="lib\bootstrap\css\bootstrap.css" />
+    <Content Include="lib\bootstrap\css\bootstrap.min.css" />
+    <Content Include="lib\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="lib\bootstrap\js\bootstrap.min.js" />
+    <Content Include="lib\counterup\counterup.min.js" />
+    <Content Include="lib\easing\easing.js" />
+    <Content Include="lib\easing\easing.min.js" />
+    <Content Include="lib\font-awesome\css\font-awesome.css" />
+    <Content Include="lib\font-awesome\css\font-awesome.min.css" />
+    <Content Include="lib\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="lib\jquery\jquery-migrate.min.js" />
+    <Content Include="lib\jquery\jquery.min.js" />
+    <Content Include="lib\superfish\hoverIntent.js" />
+    <Content Include="lib\superfish\superfish.js" />
+    <Content Include="lib\superfish\superfish.min.js" />
+    <Content Include="lib\waypoints\waypoints.min.js" />
+    <Content Include="lib\wow\wow.js" />
+    <Content Include="lib\wow\wow.min.js" />
     <Content Include="Login.aspx" />
     <Content Include="Mainpage.asp" />
     <Content Include="Mercedes-Benz_Clase_G-ingles.asp" />
@@ -612,6 +603,8 @@
     <Content Include="RocaSunzalingles.asp" />
     <Content Include="sd.asp" />
     <Content Include="sdingles.asp" />
+    <Content Include="selecciondepago.aspx" />
+    <Content Include="selecciondepagoingles.aspx" />
     <Content Include="stp.asp" />
     <Content Include="stpingles.asp" />
     <Content Include="Suitefrentealmar.asp" />
@@ -628,6 +621,15 @@
     <Content Include="Triplejpingles.asp" />
     <Content Include="Triplesuite.asp" />
     <Content Include="Triplesuiteingles.asp" />
+    <Content Include="admin_css\bootstrap.min.css" />
+    <Content Include="admin_css\estilos.css" />
+    <Content Include="alquileres.aspx" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="indexadmin.aspx" />
+    <Content Include="java\bootstrap.min.js" />
+    <Content Include="loginadmin.aspx" />
+    <Content Include="paginas.aspx" />
+    <Content Include="usuarios.aspx" />
     <Content Include="Web.config" />
     <Content Include="Registro.aspx" />
     <Content Include="PagoRealizado.aspx" />
@@ -644,6 +646,13 @@
     <Compile Include="datos.cs" />
     <Compile Include="Conexiones.cs" />
     <Compile Include="Datos1.cs" />
+    <Compile Include="Formulariopago.aspx.cs">
+      <DependentUpon>Formulariopago.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Formulariopago.aspx.designer.cs">
+      <DependentUpon>Formulariopago.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -700,7 +709,16 @@
     <Content Include="imagenes\lu.webp" />
     <Content Include="imagenes\PRIMER AÑO T1.pdf" />
     <Content Include="imagenes\Reporte_notas_alumnos_2020.pdf" />
+    <Content Include="lib\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="lib\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="lib\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="lib\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="lib\font-awesome\fonts\FontAwesome.otf" />
     <None Include="packages.config" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -19,6 +19,7 @@
                      <a href="indexingles.aspx" class="social-icon__link"><span class="icon-language"></span></a>
                 </div>
                 <nav class="n1">
+                    <a href="loginadmin.aspx"><button class="buton3">Administrador</button></a>
                     <a href="Login.aspx"><button class="buton1">Iniciar sesión</button></a>
                     <a href="Registro.aspx"><button class="button2">Registrarse</button></a>
                 </nav>

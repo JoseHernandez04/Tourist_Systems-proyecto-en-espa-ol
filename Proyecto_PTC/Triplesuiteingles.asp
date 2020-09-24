@@ -22,7 +22,7 @@
         <label class="icon-menu" for="menu-bar"></label>
         <nav class="menu">
             <a <a class="n2" href="RocaSunzalingles.asp">Home</a>
-            <a href="pago.asp" class="n2">Reserve room</a>
+            <a href="selecciondepagoingles.aspx" class="n2">Reserve room</a>
             <a class="n2" href="https://www.sunzal.com/accommodation/hotel-roca/">Ofiicial Website Sunzal</a>
             <a class="n2" href="Help.asp">Help</a>
             <div class="social-icon">
@@ -44,7 +44,7 @@
             <p class="main__txt">
                 In the Roca Sunzal triple "plus" room, there are three double beds and a maximum of three adults is allowed. These plus suites are among the best rooms on the property due to their location and some additional amenities. This room has hot water and a small refrigerator to keep drinks and snacks cool. It also comes with a private bathroom, air conditioning, cable TV, wifi, a small refrigerator with an en-suite sink, sofa, coffee maker, a small safe for your valuables, a patio in front of the pool and breakfast is included for every guest. The price is applicable for 3 adults and up to 2 children.
             </p>
-            <a href="pago.asp" class="btn"> Reserve Room </a>
+            <a href="selecciondepagoingles.aspx" class="btn"> Reserve Room </a>
         </div>
     </section>
     <div class = "group__title"> Triple Plus Room Details </div>
@@ -98,7 +98,7 @@
                 <h3 class="column__title">
                     Find us at Playa El Tunco the best place to surf.
                 </h3>
-                  <a href="pago.asp" class="btn btn--contact">!Reserve here¡</a>
+                  <a href="selecciondepagoingles.aspx" class="btn btn--contact">!Reserve here¡</a>
             </div>
         </div>
     </section>

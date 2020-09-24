@@ -24,7 +24,7 @@
         <label class="icon-menu" for="menu-bar"></label>
         <nav class="menu">
             <a class="n2" href="RocaSunzalingles.asp">Home</a>
-            <a href="pago.asp" class="n2">Reserve room</a>
+            <a href="selecciondepagoingles.aspx" class="n2">Reserve room</a>
             <a class="n2" href="https://www.sunzal.com/accommodation/hotel-roca/">Sunzal Oficial Website</a>
             <a class="n2" href="Help.asp">Help</a>
             <div class="social-icon">
@@ -32,7 +32,7 @@
                 <a href="https://www.facebook.com/Tourist-Systems-107305934378956" class="social-icon__link"><span class="icon-facebook"></span></a>
                 <a href="https://www.instagram.com/tourist_systems/" class="social-icon__link"><span class="icon-instagram"></span></a>
                 <a href="https://twitter.com/SystemsTourist" class="social-icon__link"><span class="icon-twitter"></span></a>
-                <a href="" class="social-icon__link"><span class="icon-gmail"></span></a>
+                <a href="#" class="social-icon__link"><span class="icon-gmail"></span></a>
             </div>
         </nav>
     </header>
@@ -48,7 +48,7 @@
             <p class="main__txt">
                 In the Roca Sunzal Oceanfront King Suite, there is a king-size bed and a maximum of two adults are allowed. Suites are the best rooms on the property due to their ocean views and a few extra amenities. This room has hot water and a small refrigerator to keep drinks and snacks cool. It also comes with a private bathroom, air conditioning, a balcony facing the sea, a small refrigerator, in-suite sofa and lounge table, cable TV, wifi, coffee maker, a small safe for your valuables and breakfast included for each guest. . The price is applicable for 2 adults and up to 2 children.
             </p>
-            <a href="pago.asp" class="btn">
+            <a href="selecciondepagoingles.aspx" class="btn">
                 Reserve room
             </a>
         </div>
@@ -108,7 +108,7 @@
                 <h3 class="column__title">
                     Find us at Playa El Tunco the best place to surf.
                 </h3>
-                <a href="pago.asp" class="btn btn--contact">Reserver room</a>
+                <a href="selecciondepagoingles.aspx" class="btn btn--contact">Reserver room</a>
             </div>
         </div>
     </section>

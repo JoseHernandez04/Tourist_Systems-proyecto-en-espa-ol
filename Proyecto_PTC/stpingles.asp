@@ -22,7 +22,7 @@
         <label class="icon-menu" for="menu-bar"></label>
         <nav class="menu">
             <a <a class="n2" href="RocaSunzalingles.asp">Home</a>
-            <a href="pago.asp" class="n2">Reserve room</a>
+            <a href="selecciondepagoingles.aspx" class="n2">Reserve room</a>
             <a class="n2" href="https://www.sunzal.com/accommodation/hotel-roca/">Ofiicial Website Sunzal</a>
             <a class="n2" href="Help.asp">Help</a>
             <div class="social-icon">
@@ -52,7 +52,7 @@
                 for your valuables and breakfast included for each guest. The price is applicable
                 for 3 adults and up to 2 children.
             </p>
-            <a href="pago.asp" class="btn"> Reserve Room </a>
+            <a href="selecciondepagoingles.aspx" class="btn"> Reserve Room </a>
         </div>
     </section>
     <div class="group__title"> Details of the Triple Ocean Front Suit </div>
@@ -106,7 +106,7 @@
                 <h3 class="column__title">
                     Find us at Playa El Tunco the best place to surf.
                 </h3>
-                  <a href="pago.asp" class="btn btn--contact">!Reserve here¡</a>
+                  <a href="selecciondepagoingles.aspx" class="btn btn--contact">!Reserve here¡</a>
             </div>
         </div>
     </section>

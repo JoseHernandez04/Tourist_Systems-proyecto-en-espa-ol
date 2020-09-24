@@ -179,13 +179,13 @@ footer .conte{
   color: aliceblue;
 }
 .buton3{
-  background: blue;
-  color:aliceblue;
+  background: #13f8ff;
+  color:black;
   padding: 10px;
 }
 .buton3:hover{
-  background: #01d8ff;
-  color: black;
+  background: blue;
+  color: white;
 }
 .n1{
   justify-content: flex-end;

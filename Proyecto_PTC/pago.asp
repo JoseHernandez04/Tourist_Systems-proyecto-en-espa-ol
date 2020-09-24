@@ -7,6 +7,37 @@
     <link rel="stylesheet" href="EstilosCss/pago.css">
 </head>
 <body>
+    <style type="text/css">
+
+         body{
+             top: 0 !important;
+         }
+
+        .googletranslate {
+            margin-top: 10px !important;
+            margin-left: 20px !important;
+        }
+
+        .goog-te-banner-frame{
+            display: none !important;
+        }
+    </style>
+    <div class="Collapse navbar-collapse">
+                 <ul class="navbar-nav mr-auto">
+                     <li>
+                    <a href="#">
+                        <div class="googletranslate" id="google_translate_element"></div>
+                    </a>
+                </li>
+                 </ul>
+            </div>
+
+        <script type="text/javascript">
+            function googleTranslateElementInit() {
+                new google.translate.TranslateElement({ pageLanguage: 'es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE },
+                    'google_translate_element');
+            }
+        </script>
     <div class="modal">
         <div class="modal__container">
           <div class="modal__featured">
@@ -67,6 +98,8 @@
           </div> <!-- END: .modal__content -->
         </div> <!-- END: .modal__container -->
       </div> <!-- END: .modal -->
+            <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
       <script src="js/pago.js"></script>
 </body>
 </html>

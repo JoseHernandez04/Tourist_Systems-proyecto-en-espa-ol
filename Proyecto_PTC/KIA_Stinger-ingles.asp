@@ -39,7 +39,7 @@
         <label class="icon-menu" for="menu-bar"></label>
         <nav class="menu">
             <a class="n2" href="Rentcar.asp">Home</a>
-            <a class="n2" href="pago.asp">Book Here</a>
+            <a class="n2" href="selecciondepagoingles.aspx">Book Here</a>
             <a class="n2" href="Help.asp">Help</a>
             <div class="social-icon">
                 <a href="KIA_Stinger.asp" class="social-icon__link"><span class="icon-language"></span></a>
@@ -110,7 +110,7 @@
             <p> Extra-urban consumption (l / 100 km): 3.7 </p>
             <p> Average consumption (l / 100 km): 4.5 </p>
             <p> CO2 emissions (gr / km): 115 </p>
-            <a class="btn" href="pago.asp">! Book Here </a>
+            <a class="btn" href="selecciondepagoingles.aspx">! Book Here </a>
         </article>
 
         <div class="container-aside">
@@ -118,7 +118,7 @@
             <aside>
                 <img src="carros/2.2.jpg" alt="">
                 <h2>Kia Stringer</h2>
-                <a href="KIA_Stinger-ingles.asp"><button>Book !Here</button></a>
+                <a href="selecciondepagoingles.aspx"><button>Book !Here</button></a>
             </aside>
 
             <aside>

@@ -39,7 +39,7 @@
         <label class="icon-menu" for="menu-bar"></label>
         <nav class="menu">
             <a class="n2" href="RentaCar.asp">Inicio</a>
-            <a class="n2" href="pago.asp">Rentar aqui</a>
+            <a class="n2" href="selecciondepago.aspx">Rentar aqui</a>
             <a class="n2" href="Ayuda.asp">Ayuda</a>
             <div class="social-icon">
                 <a href="KIA_Stinger-ingles.asp" class="social-icon__link"><span class="icon-language"></span></a>
@@ -110,7 +110,7 @@
             <p>Consumo extraurbano (l/100 km): 3.7</p>
             <p>Consumo medio (l/100 km):4.5</p>
             <p>Emisiones de CO2 (gr/km):115</p>
-            <a class="btn" href="pago.asp">!Reserva Aqui¡</a>
+            <a class="btn" href="selecciondepago.aspx">!Reserva Aqui¡</a>
         </article>
 
         <div class="container-aside">
@@ -118,7 +118,7 @@
             <aside>
                 <img src="carros/1.jpg" alt="">
                 <h2>Nissan Micra 2019</h2>
-                <a href="NissanMicra.asp"><button>Rentar !Aqui¡</button></a>
+                <a href="selecciondepago.aspx"><button>Reservar !Aqui¡</button></a>
             </aside>
 
             <aside>
