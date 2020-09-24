@@ -22,7 +22,7 @@
         <label class="icon-menu" for="menu-bar"></label>
         <nav class="menu">
             <a class="n2" href="Realinter_continental.asp">Home</a>
-            <a href="pago.asp" class="n2">Reserve room</a>
+            <a href="selecciondepagoingles.aspx" class="n2">Reserve room</a>
             <a class="n2" href="https://www.ihg.com/intercontinental/hotels/us/en/san-salvador/sslhb/hoteldetail?cm_mmc=YextLocal-_-IC-_-SV-_-SSLHB&fbclid=IwAR1CEHbs7c__5GHjlhUvyxvplaIQ9rTebvr5rBkd9wNzU-NSCE8L5Sc8kc0">Pagina oficial</a>
             <a class="n2" href="Help.asp">Help</a>
             <div class="social-icon">
@@ -43,7 +43,7 @@
             <h2 class="main__title">Presidential suite</h2>
             <p class="main__txt">This spacious, top-floor suite features air conditioning, great views, a hot tub and a separate living area with a 42-inch LCD TV with HD and cable channels. It also includes a minibar and a coffee machine. High-speed internet connection is available at an additional cost.
             </p>
-            <a href="pago.asp" class="btn">Reserve room</a>
+            <a href="selecciondepagoingles.aspx" class="btn">Reserve room</a>
         </div>
     </section>
     <div class="group__title">Details of the Presidential Suite room</div>
@@ -98,7 +98,7 @@
             </div>
             <div class="column column--50">
                 <h3 class="column__title">Encuentranos en el centro de San Salvador enfrente de el mejor centro comercial de El Salvador.</h3>
-                  <a href="pago.asp" class="btn btn--contact">Reservar Habitación</a>
+                  <a href="selecciondepagoingles.aspx" class="btn btn--contact">Reservar Habitación</a>
             </div>
         </div>
     </section>

@@ -22,7 +22,7 @@
         <label class="icon-menu" for="menu-bar"></label>
         <nav class="menu">
             <a class="n2" href="Realinter_continental.asp">Home</a>
-            <a href="pago.asp" class="n2">Reserve room</a>
+            <a href="selecciondepagoingles.aspx" class="n2">Reserve room</a>
             <a class="n2" href="https://www.ihg.com/intercontinental/hotels/us/en/san-salvador/sslhb/hoteldetail?cm_mmc=YextLocal-_-IC-_-SV-_-SSLHB&fbclid=IwAR1CEHbs7c__5GHjlhUvyxvplaIQ9rTebvr5rBkd9wNzU-NSCE8L5Sc8kc0">Pagina oficial</a>
             <a class="n2" href="Help.asp">Help</a>
             <div class="social-icon">
@@ -46,7 +46,7 @@
 
 The Club Floor includes butler service, private check-in area, continental breakfast and snacks.
             </p>
-            <a href="ppago.asp" class="btn">Reserve room</a>
+            <a href="selecciondepagoingles.aspx" class="btn">Reserve room</a>
         </div>
     </section>
     <div class="group__title">Executive King Room Details</div>
@@ -99,7 +99,7 @@ The Club Floor includes butler service, private check-in area, continental break
             </div>
             <div class="column column--50">
                 <h3 class="column__title">Find us in the center of San Salvador in front of the best shopping center in El Salvador.</h3>
-                  <a href="pago.asp" class="btn btn--contact">Reserve room</a>
+             <a href="selecciondepagoingles.aspx" class="btn btn--contact">Reserve room</a>
             </div>
         </div>
     </section>

@@ -22,7 +22,7 @@
         <label class="icon-menu" for="menu-bar"></label>
         <nav class="menu">
             <a class="n2" href="Realintercontinental.asp">Inicio</a>
-            <a href="pago.asp" class="n2">Reservar Habitación</a>
+            <a href="selecciondepago.aspx" class="n2">Reservar Habitación</a>
             <a class="n2" href="https://www.ihg.com/intercontinental/hotels/us/en/san-salvador/sslhb/hoteldetail?cm_mmc=YextLocal-_-IC-_-SV-_-SSLHB&fbclid=IwAR1CEHbs7c__5GHjlhUvyxvplaIQ9rTebvr5rBkd9wNzU-NSCE8L5Sc8kc0">Pagina oficial</a>
             <a class="n2" href="Ayuda.asp">Ayuda</a>
             <div class="social-icon">
@@ -45,7 +45,7 @@
 
                 Los servicios de la planta Club incluyen: mayordomo, zona privada de registro de entrada, desayuno continental y entremeses.
             </p>
-            <a href="pago.asp" class="btn">Reservar Habitación</a>
+            <a href="selecciondepago.aspx" class="btn">Reservar Habitación</a>
         </div>
     </section>
     <div class="group__title">Detalles de la habitación Suite Junior</div>
@@ -99,7 +99,7 @@
             </div>
             <div class="column column--50">
                 <h3 class="column__title">Encuentranos en el centro de San Salvador enfrente de el mejor centro comercial de El Salvador.</h3>
-                  <a href="pago.asp" class="btn btn--contact">Reservar Habitación</a>
+                  <a href="selecciondepago.aspx" class="btn btn--contact">Reservar Habitación</a>
             </div>
         </div>
     </section>
